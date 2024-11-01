@@ -28,3 +28,4 @@
 /Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.pdb
 /Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.genruntimeconfig.cache
 /Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/obj/Debug/net8.0/ref/ExpenseTracker.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.sourcelink.json

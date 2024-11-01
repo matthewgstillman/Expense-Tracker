@@ -18,6 +18,21 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult Expenses()
+    {
+        return View();
+    }
+    
+    public IActionResult CreateEditExpense()
+    {
+        return View();
+    }
+
+    public IActionResult CreateEditExpenseForm(Expense model)
+    {
+        return RedirectToAction("Expenses");
+    }
+
     public IActionResult Privacy()
     {
         return View();
