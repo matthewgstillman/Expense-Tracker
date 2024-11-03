@@ -29,3 +29,17 @@
 /Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.genruntimeconfig.cache
 /Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/obj/Debug/net8.0/ref/ExpenseTracker.dll
 /Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.sourcelink.json
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.csproj.AssemblyReference.cache
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/ExpenseTracker/obj/Debug/net8.0/ExpenseT.567C5DF3.Up2Date
