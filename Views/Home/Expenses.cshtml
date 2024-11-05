@@ -7,6 +7,10 @@
 <div class="text-center">
     <h1 class="display-4">Expenses</h1>
     <br/>
+    <div class="text-center">
+        <a asp-controller="Home" asp-action="CreateEditExpense" class="btn btn-secondary">Create New</a>
+    </div>
+    <br/>
     <hr/>
     <h3>Total Expenses: $@ViewBag.Expenses.ToString("0")</h3>
     <br/>

@@ -19,4 +19,9 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: #69B3E7;
+}
+
+tr {
+  border-color: black;
 }
