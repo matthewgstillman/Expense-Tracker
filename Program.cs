@@ -5,8 +5,14 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Configure DbContext to use MySQL with Pomelo
 builder.Services.AddDbContext<ExpenseTrackerDbContext>(options =>
-    options.UseInMemoryDatabase("ExpenseTrackerDb"));
+    options.UseMySql(
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        new MySqlServerVersion(new Version(8, 0, 21)) // Adjust the version to match your MySQL server version
+    )
+);
 
 var app = builder.Build();
 
@@ -14,7 +20,6 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
